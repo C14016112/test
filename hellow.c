@@ -3,7 +3,9 @@
 int main()
 {
     printf ( "hellow world!\n" );
-    return 123 ;
-    
+   
+    printf( "%d\n" ,2+3 ) ; // %d print an integer 
+    system("pause") ;
+     return 123 ;
     
 }
