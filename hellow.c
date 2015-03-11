@@ -15,6 +15,7 @@ int main()
     printf( "%d\n" ,2+3 ) ; // %d print an integer 
     printf( "%s\n" ,Name ) ;
     printf( "%c\n" ,Name[5] ); // Name[5] = u
+    printf( "%s\n" ,Name+3); 
     system("pause") ;
      return 123 ;
     
